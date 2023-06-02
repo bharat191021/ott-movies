@@ -1,0 +1,31 @@
+.movie-list {
+    margin-top: 20px;
+  }
+  
+  .movie {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .movie h3 {
+    margin-bottom: 5px;
+  }
+  
+  .movie p {
+    margin-bottom: 5px;
+  }
+  
+  .movie .edit-link {
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  .movie .delete-button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
