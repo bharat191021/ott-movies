@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Navbar from './Navbar';
 import Sidebar from './Sidebar';
-import MovieList from './MovieList';
+
 import MovieForm from './MovieForm';
 import SearchBar from './SearchBar';
 import axios from 'axios';
